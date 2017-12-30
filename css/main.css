@@ -1,0 +1,51 @@
+.pull-right
+{
+	position: absolute;
+	right: 20px;
+	width: 200px;
+	display: inline;
+	
+	
+}
+
+nav {
+	background-color: gray;	
+	padding: 15px;
+}
+
+nav a {
+	display: inline;
+	text-decoration: none;
+	color: white;
+	font-family: cursive;
+	font-size: 13px;
+}
+
+nav a:hover{color:red;}
+
+body{
+	margin: 0px 0px 5px 0px;
+}
+
+.landing{
+	text-align: center;
+	background-color: skyblue;
+	font-family: cursive;
+	padding-top: 50%;
+	margin: 0px;
+	height: 100vh;
+}
+
+.design{
+    text-align: center;
+	background-color: lightgray;
+	font-family: cursive;
+	padding-top: 50%;
+	margin: 0px;
+	height: 100vh;
+}
+
+
+
+
+
